@@ -39,7 +39,7 @@ We will train a neural network SC model using reviews (as inputs) and rating sco
 - Write the ``predict.py`` file to predict rating scores
 
 ## Usage
-1. Download this repository: git clone https://github.com/duytinvo/comp5014.git
+1. Download this repository: git clone https://github.com/TP1232/NLP_Sentiment_Classification
 2. Train the model:
   - Change the current directory to "assignment4"
   - Run this command:
